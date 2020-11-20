@@ -4,6 +4,9 @@
 
 extract some code by vuetify,just for using it lighter
 
+
+[![npm](https://nodei.co/npm/v-intersection.png)](https://www.npmjs.com/package/v-intersection)
+
 ## demo and document
 
 [demo and documment github page](https://genjixyz.github.io/v-intersection/)
