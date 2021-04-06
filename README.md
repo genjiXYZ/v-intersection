@@ -101,8 +101,8 @@ just run once ,and  IntersectionObserver.unobserve( target)
 
 
 quiet
-when init don't run 
-初始化设置的时候不执行, 
+don't handle  when binding directive 
+在绑定指令时不触发, 
 <div v-intersection.quiet="handler"></div>
 
 ```
