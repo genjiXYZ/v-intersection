@@ -86,7 +86,7 @@ export default {
 
 more options info  in   [MDN document](https://developer.mozilla.org/zh-CN/docs/Web/API/IntersectionObserver)
 
-更多还原 配置参数请见 [MDN document](https://developer.mozilla.org/zh-CN/docs/Web/API/IntersectionObserver)
+更多配置参数请见 [MDN document](https://developer.mozilla.org/zh-CN/docs/Web/API/IntersectionObserver)
 
 
 
